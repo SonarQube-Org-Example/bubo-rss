@@ -2,3 +2,6 @@ node_modules/*
 public/index.html
 dist/*
 .DS_Store
+
+PLAN.MD
+CHANGELOG.md
